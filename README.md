@@ -1,1 +1,1 @@
-# walmart-microsoft-paint
+python-paint
